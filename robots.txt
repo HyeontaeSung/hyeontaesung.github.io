@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hyeontaesung.github.io/sitemap.xml
+Sitemap: https://HyeontaeSung.github.io/sitemap.xml
