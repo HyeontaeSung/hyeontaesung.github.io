@@ -83,7 +83,9 @@ layout: default
 
   {% if site.related_blog_posts and site.related_blog_posts.enabled %}
     {% if page.related_posts == null or page.related_posts %}
-      {% include related_posts.liquid %}
+      {% if site.includes contains 'related_posts.liquid' %}
+        {% include related_posts.liquid %}
+      {% endif %}
     {% endif %}
   {% endif %}
 
