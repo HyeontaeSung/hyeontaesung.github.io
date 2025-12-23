@@ -38,13 +38,6 @@ Professor [Heejin Ahn](https://cis.kaist.ac.kr/profileheejin-ahn).
 **I am currently applying to Ph.D. programs**, seeking to develop safe control frameworks for autonomous systems operating under uncertainties.
 
 
-<!-- Hyeontae Sung received the M.S. degree with the School of Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, and the the B.S. degree in Aerospace Engineering from Konkuk University, Seoul, South Korea, in 2023. 
-His research interests include safe optimal control for autonomous systems. -->
-
-
-
-<!-- Hyeontae Sung received the M.S. degree with the School of Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea, and the the B.S. degree in Aerospace Engineering from Konkuk University, Seoul, South Korea, in 2023. 
-His research interests include safe optimal control for autonomous systems. -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
