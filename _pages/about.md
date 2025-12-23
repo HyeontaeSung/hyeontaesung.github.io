@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 ---
 Hello,
 
-I am currently collaborating with the 
+I am currently conducting research with the 
 [Safe and Intelligent Autonomy Lab](https://smlbansal.github.io/sia-lab/) 
 at Stanford University, 
 guided by Professor 
@@ -33,7 +33,11 @@ I am also a researcher at the
 [Control and Intelligent Systems Lab](https://cis.kaist.ac.kr/) 
 at KAIST, 
 where I received my M.S. degree under the supervision of 
-Professor [Heejin Ahn](https://cis.kaist.ac.kr/profileheejin-ahn).
+Professor [Heejin Ahn](https://cis.kaist.ac.kr/profileheejin-ahn). In summer 2024, I visited the 
+[Sycamore Lab](https://www.epfl.ch/labs/sycamore/) at EPFL led by Professor 
+[Maryam Kamgarpour](https://people.epfl.ch/maryam.kamgarpour?lang=en) 
+via the 
+[E3 Summer Research Program](https://eee.epfl.ch/).
 
 **I am currently applying to Ph.D. programs**, seeking to develop safe control frameworks for autonomous systems operating under uncertainties.
 
