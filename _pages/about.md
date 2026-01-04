@@ -19,29 +19,28 @@ social: true # includes social icons at the bottom of the page
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 #   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
+
 Hello,
 
-I am currently conducting research with the 
-[Safe and Intelligent Autonomy Lab](https://smlbansal.github.io/sia-lab/) 
-at Stanford University, 
-guided by Professor 
-[Somil Bansal](https://smlbansal.github.io/) 
-and Professor 
+I am currently conducting research with the
+[Safe and Intelligent Autonomy Lab](https://smlbansal.github.io/sia-lab/)
+at Stanford University,
+guided by Professor
+[Somil Bansal](https://smlbansal.github.io/)
+and Professor
 [Jason J. Choi](https://jay-choi.me/).
 
-I am also a researcher at the 
-[Control and Intelligent Systems Lab](https://cis.kaist.ac.kr/) 
-at KAIST, 
-where I received my M.S. degree under the supervision of 
-Professor [Heejin Ahn](https://cis.kaist.ac.kr/profileheejin-ahn). In summer 2024, I visited the 
-[Sycamore Lab](https://www.epfl.ch/labs/sycamore/) at EPFL led by Professor 
-[Maryam Kamgarpour](https://people.epfl.ch/maryam.kamgarpour?lang=en) 
-via the 
+I am also a researcher at the
+[Control and Intelligent Systems Lab](https://cis.kaist.ac.kr/)
+at KAIST,
+where I received my M.S. degree under the supervision of
+Professor [Heejin Ahn](https://cis.kaist.ac.kr/profileheejin-ahn). In summer 2024, I visited the
+[Sycamore Lab](https://www.epfl.ch/labs/sycamore/) at EPFL led by Professor
+[Maryam Kamgarpour](https://people.epfl.ch/maryam.kamgarpour?lang=en)
+via the
 [E3 Summer Research Program](https://eee.epfl.ch/).
 
 **I am currently applying to Ph.D. programs**, seeking to develop safe control frameworks for autonomous systems operating under uncertainties.
-
-
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
